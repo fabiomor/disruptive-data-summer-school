@@ -1,6 +1,6 @@
-#Disruptive Data Summer School - Test#
+# Disruptive Data Summer School - Test
 
-######This repository contains sample projects for Disruptive Data Summer School 2019 - Data Science & Machine Learning in Viterbo
+###### This repository contains sample projects for Disruptive Data Summer School 2019 - Data Science & Machine Learning in Viterbo
 
 The repository contains the following files
 
