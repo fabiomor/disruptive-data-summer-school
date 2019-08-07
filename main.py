@@ -1,8 +1,12 @@
-import io_data
+import project1
+import project2
+import project3
+import project4
+
 
 def main():
-    values = io_data.read_from_google_docs()
-    #io_data.read_from_csv()
+    project2.execute()
+    #project4.execute()
 
 
 if __name__ == "__main__":
