@@ -8,8 +8,8 @@
 - **project2.py** completed
 - **project3.py** tbd
 - **project4.py** completed
-- **uris.csv** csv version of google docs provided
-- **words.csv** csv version of google docs provided
+- **uris.csv** csv version of google sheets provided
+- **words.csv** csv version of google sheets provided
 
 ##### Assignments
 
