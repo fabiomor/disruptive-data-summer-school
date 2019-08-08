@@ -1,3 +1,6 @@
 credentials.json
 token.pickle
 *output.csv
+.idea/
+__pycache__/
+*.pyc
